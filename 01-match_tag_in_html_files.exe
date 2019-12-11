@@ -1,0 +1,4 @@
+mkdir ~/.vim
+mkdir ~/.vim/after
+mkdir ~/.vim/after/ftplugin
+cp ./config_files/html.vim ~/.vim/after/ftplugin
